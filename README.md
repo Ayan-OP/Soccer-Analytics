@@ -6,8 +6,8 @@ This is where **YOLO** and **Computer Vision** come in. By using these technolog
 
 This project employs YOLO (You Only Look Once) object detection to conduct comprehensive analysis of football matches. The goal is to provide detailed insights into player performance, team dynamics, ball possession, and camera movements during a match.
 
-<p><img height="300" width="500" src="https://github.com/Ayan-OP/Soccer-Analytics/blob/main/input_videos/input_video_gif.gif" title="Input Video" alt="demo">
-<img height="300" width="500" src="https://github.com/Ayan-OP/Soccer-Analytics/blob/main/output_videos/output_video_gif.gif" title="Processed Video" alt="demo"></p>
+<p><img height="300" width="500" src="https://github.com/Ayan-OP/Soccer-Analytics/blob/main/input_videos/input_video.gif" title="Input Video" alt="demo">
+<img height="300" width="500" src="https://github.com/Ayan-OP/Soccer-Analytics/blob/main/output_videos/output_video.gif" title="Processed Video" alt="demo"></p>
 
 
 ## Installation
